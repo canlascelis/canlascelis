@@ -12,3 +12,5 @@ I'm Jeremiah Celis a college student, 23 years old.
 <li><a href="#">Caculator</a></li>
 <li><a href="#">Todo list</a></li>
 </ul>
+# Experience
+I'm a student of **University of the Assumption** and Became an Intern at **TwistResources** at year 2022
