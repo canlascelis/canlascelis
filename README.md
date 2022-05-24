@@ -9,7 +9,7 @@ I'm Jeremiah Celis a college student, 23 years old.
 
 # Recent Projects
 <ul>
-<li><a href="google.com">Portfolio</a></li>
+<li><a href="https://portfolio-a3d78.web.app/">Portfolio</a></li>
 <li><a href="#">Caculator</a></li>
 <li><a href="#">Todo list</a></li>
 </ul>
