@@ -17,7 +17,7 @@ I'm Jeremiah Celis a college student, 23 years old.
 # Experience
 I'm a student of **University of the Assumption** and Became an Intern at **TwistResources** at year 2022. Also my forte is front-end development.
 
-###### Libraries I used so far
+###### Libraries/Frameworks I used so far
 <ul>
 <li>Materialized CSS</li>
 <li>Bulma.io</li>
