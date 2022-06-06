@@ -7,17 +7,6 @@ I'm Jeremiah Celis a college student, 23 years old.
 <li>NodeJs</li>
 </ul>
 
-# Recent Projects
-<ul>
-<li><a href="https://portfolio-a3d78.web.app/">Portfolio</a></li>
-<li><a href="https://dashboard.heroku.com/apps/calculator-jeres">Caculator</a></li>
-<li><a href="#">Todo list</a></li>
-<li><a href="https://github.com/canlascelis/adventure-of-baji">Adventure of Baji</a></li>
-</ul>
-
-# Experience
-I'm a student of **University of the Assumption** and Became an Intern at **TwistResources** at year 2022. Also my forte is front-end development.
-
 ###### Libraries/Frameworks I used so far
 <ul>
 <li>Materialized CSS</li>
@@ -28,3 +17,14 @@ I'm a student of **University of the Assumption** and Became an Intern at **Twis
 <li>THREE.Js</li>
 <li>Kaboom.Js</li>
 </ul>
+
+# Recent Projects
+<ul>
+<li><a href="https://portfolio-a3d78.web.app/">Portfolio</a></li>
+<li><a href="https://calculator-jeres.herokuapp.com/">Caculator</a></li>
+<li><a href="#">Todo list</a></li>
+<li><a href="https://github.com/canlascelis/adventure-of-baji">Adventure of Baji</a></li>
+</ul>
+
+# Experience
+I'm a student of **University of the Assumption** and Became an Intern at **TwistResources** at year 2022. Also my forte is front-end development.
